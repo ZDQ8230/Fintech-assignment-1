@@ -107,6 +107,7 @@ Bambu belongs to the pure robo advisor segnment. According to Research Drive, th
 <li>SigFig Wealth Management LLC. (Nvest, Inc.)</li>
 <li>Banco Santander S.A</li>
 <li>T. Rowe Price</li>
+<li>Addtiv</li>
 
 </ol>
 <br />
@@ -119,16 +120,10 @@ Robo-advisor companies' success can be assessed through various metrics such as 
 
 # Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+Bambu could consider providing personalised risk profile for each user. Risks are one of the important factors when it comes to investing. According to Cathy Pareto's ariticle ['Understanding Investor Behavior'](https://www.investopedia.com/articles/05/032905.asp#toc-the-truth-about-investor-behavior), investors are not always rational about investing and money. Individuals' behaviour can be risk. For example, fear of regret, emotion-driven, having preferences rather than looking out for a diversified investment portfolio. Bambu can providing users with full understanding about their bahavioural risks. In turn, maximise the customer service and improve the investment portfolio of the users. 
 
-* Why do you think that offering this product or service would benefit the company?
+Bambu can achieve this through machine learning. Machine learning enables methods from neural networks, statistics, operations research and physics to find hidden insights in indivdiuals' investing behavioural. 
 
-* What technologies would this additional product or service utilise?
-
-* Why are these technologies appropriate for your solution?
-
-
- <br />
 
 
 
@@ -169,4 +164,6 @@ https://www.researchdive.com/8537/robo-advisory-market?utm_source=GNW
 
 https://www.reportlinker.com/p06284122/Robo-Advisory-Global-Market-Report.html?utm_source=GNW
 
+https://www.thewealthmosaic.com/vendors/vendor/additiv/
 
+https://www.sas.com/en_us/insights/articles/big-data/artificial-intelligence-machine-learning-deep-learning-and-beyond.html
