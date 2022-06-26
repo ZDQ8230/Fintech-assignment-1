@@ -30,7 +30,7 @@ Bambu has 3 product lines which are:
 - Bambu BUILD
 - Bambu GO  
 
-## Bambu BUILD ![](https://www.thewealthmosaic.com/vendors/bambu/bambu-build/)
+## [Bambu BUILD](https://www.thewealthmosaic.com/vendors/bambu/bambu-build/)
 ---
 
 > 'Bambu BUILD is a white-label solution built to your exact requirements and specifications for your customers and advisors' - Bambu offcial website 
@@ -42,7 +42,7 @@ Bambu BUILD is a wealth management platform which can be fully customised.
 - Bambu  BUILD allows users to host their data on various cloud platforms such as AWS, AZURE etc. Therefore, Bambu BUILD enables users with the options of public facing platform, or private platform. 
 - Bambu BUILD provides multiple language options 
 
-## Bambu API ![](https://www.thewealthmosaic.com/vendors/bambu/api-library/)
+## [Bambu API ](https://www.thewealthmosaic.com/vendors/bambu/api-library/)
 
 ---
 Bambu API is a library that provides Bambu's cutting edge AI features. It contains a wide range of robo capabilities from on boarding, risk profoiliing to profoilio analysis. Examples are: 
@@ -52,7 +52,7 @@ Bambu API is a library that provides Bambu's cutting edge AI features. It contai
 - Financial Healthchecks
 - Country compliance 
 
-## Bambu GO ![](https://www.thewealthmosaic.com/vendors/bambu/bambu-go/)
+## [Bambu GO ](https://www.thewealthmosaic.com/vendors/bambu/bambu-go/)
 --- 
 Bambu GO is a turn-key digital investment platform. Bambu GO saves the effort and time required for integrating, or developing a new platform. Bambu GO has features such as: 
 - Automated transactions (instant verification, direct payments, order management, rebalancing through Plaid and Apex Clearing)
@@ -71,8 +71,8 @@ Bambu targets at financial institution. Examples of Bambu's clients are asset ma
 Bambu works with institutional clients who already has the liscence to do investment advisory in various country. This eases their regulatory difficulties. 
 
 #### Easy to work with 
-non-programming backgorund users 
-....
+Bambu is designed so that non-programming backgorund users can easily develop their platform. Bambu also provides API library. This allows clients to add innovative features into their platform without diificulties. 
+
 
 # Landscape
 
