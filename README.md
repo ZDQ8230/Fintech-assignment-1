@@ -60,9 +60,8 @@ Bambu GO is a turn-key digital investment platform. Bambu GO saves the effort an
 - Hosted & Supported on AWS (Bambu GO provides 24/7 support)
 - Clients with no programming knowledge can easily develop their own Bambu GO platform 
 
-<br />
-
 ### *Who is Bambu targeting at?*
+
 Bambu targets at financial institution. Examples of Bambu's clients are asset managers, bank wealth managers, brokers etc. According to AWS Startup Blog, the founders has strategically targets institutional clients because it can be very difficult to get robo-advisory liscence in some country. Therefore, by working with clients who already has liscensing makes Bambu grow easier. 
 
 ### *What is the competitive advantage of Bambu ?*
@@ -70,17 +69,34 @@ Bambu targets at financial institution. Examples of Bambu's clients are asset ma
 #### Licensing:
 Bambu works with institutional clients who already has the liscence to do investment advisory in various country. This eases their regulatory difficulties. 
 
-#### Easy to work with 
+#### Easy to work with: 
 Bambu is designed so that non-programming backgorund users can easily develop their platform. Bambu also provides API library. This allows clients to add innovative features into their platform without diificulties. 
 
+<br />
 
-# Landscape
 
-* What domain of the financial industry is the company in?
 
-* What have been the major trends and innovations of this domain over the last 5–10 years?
+# Landscape: robo-advisor:
 
-* What are the other major companies in this domain?
+
+Bambu operates within the robo-advisor domain. Robo-advisors use automated, algorithm-based system and little human involvement to provide portfolio management advice. Robo-advisor gives recommandations based on the user's goals, current financial postion, portfolio. Benefits of using robo-advisors are: 
+
+-  In comparison with human labor, robo-advisor has a lower costs 
+
+> <p> Most robo-advisors charge annual flat fees of less than .5% per specific amount managed. It is much less than the typical 1% to 2% charged by a human financial planner (or more for commission-based accounts).  </p> - Adam Hayes, Socio-Economic Review, Volume 19, Issue1, 2021, Pages 83-110
+
+<br /> 
+
+- Robo-advisor can be accessed 24/7. 
+
+- Requires less capital to start. This means more people can participate in smart investing with robo-advisor. 
+
+
+### Future trend: 
+
+
+
+
 
 ## Results
 
@@ -117,9 +133,6 @@ Bambu is designed so that non-programming backgorund users can easily develop th
 
 
 
-## **Appendix**: 
-
-
 
 
 ## **Reference**:
@@ -133,4 +146,11 @@ https://www.plugandplaytechcenter.com/resources/6-startups-will-shape-future-wea
 https://youtu.be/f3qdt0IiNpY
 
 https://aws.amazon.com/blogs/startups/robo-advising-financial-planning/
+
+https://www.wipro.com/digital/rise-robo-advisor-wealth-management0/#:~:text=Robo%2Dadvisors%20make%20automated%20portfolio,affluent%20market%20segments%20as%20well.
+
+https://www.wipro.com/digital/rise-robo-advisor-wealth-management0/#:~:text=Robo%2Dadvisors%20make%20automated%20portfolio,affluent%20market%20segments%20as%20well.
+
+https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp
+
 
