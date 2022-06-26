@@ -2,7 +2,7 @@
 ![](Bambu.%20png.png)
 
 ## **Overview**
-> "At the core of Bambu, we empower our clients to help their users save and invest digitally." - Bambu.com
+> "At the core of Bambu, we empower our clients to help their users save and invest digitally." - Bambu official website
 
 Bambu is a company founded in 2016 by Ned Phillips and Aki Ranin. Bambu is a fintech company that develops technology for wealth management. For example, robo advisory, API (application programing interfaace) platform. The company is B2B. Bambbus has won many awards such as being named as AIFinTech100 comapny and The World's Most Innovative AI Technology Services. As well as alumni of SuperCharger 2.0 Accelerator program and finalist at Jumpstart organised by Alibaba Entrepreneurs Fund.
 
@@ -22,7 +22,7 @@ Bambu has received 4 funding rounds. Bambu has raised $13.4 M in total. Bambu ha
 
 ## **Business activities**
 
-### *What problem does Bambu deals with ?*
+### *What problems does Bambu deals with ?*
 Bambu develops technology for financial institution whose customers wants to invest online and a personalised digital experience. Bambu helps financial institution intergrate their system with new technologies. Bambu provides AI robo advisor that engages and provides a personalised investment plans with customers.
 
 Bambu has 3 product lines which are:
@@ -30,7 +30,36 @@ Bambu has 3 product lines which are:
 - Bambu BUILD
 - Bambu GO  
 
+Bambu BUILD
+---
 
+> 'Bambu BUILD is a white-label solution built to your exact requirements and specifications for your customers and advisors' - Bambu offcial website 
+ 
+<br />
+
+Bambu BUILD is a wealth management platform which can be fully customised. 
+- Bambu BUILD provides access to to API library and customise their platform to suits their needs. 
+- Bambu  BUILD allows users to host their data on various cloud platforms such as AWS, AZURE etc. Therefore, Bambu BUILD enables users with the options of public facing platform, or private platform. 
+- Bambu BUILD provides multiple language options 
+
+Bambu API 
+---
+Bambu API is a library that provides Bambu's cutting edge AI features. It contains a wide range of robo capabilities from on boarding, risk profoiliing to profoilio analysis. Examples are: 
+- Financial goal calculators
+- Portfolio rebalancing
+- Graph projections
+- Financial Healthchecks
+- Country compliance 
+
+Bambu GO
+--- 
+Bambu GO is a turn-key digital investment platform. Bambu GO saves the effort and time required for integrating, or developing a new platform. Bambu GO has features such as: 
+- Automated transactions (instant verification, direct payments, order management, rebalancing through Plaid and Apex Clearing)
+- Robo advisors customised to client's brand. 
+- Hosted & Supported on AWS (Bambu GO provides 24/7 support)
+- Clients with no programming knowledge can easily develop their own Bambu GO platform 
+
+<br />
 
 ### *Who is Bambu targeting at?*
 Bambu targets at financial institution. Examples of Bambu's clients are asset managers, bank wealth managers, brokers etc. According to AWS Startup Blog, the founders has strategically targets institutional clients because it can be very difficult to get robo-advisory liscence in some country. Therefore, by working with clients who already has liscensing makes Bambu grow easier. 
@@ -39,7 +68,7 @@ Bambu targets at financial institution. Examples of Bambu's clients are asset ma
 
 <br />
 
-#### Liscensing:
+#### Licensing:
 Bambu works with institutional clients who already has the liscence to do investment advisory in various country. This eases their regulatory difficulties. 
 
 #### Easy to work with for non-programming backgorund users 
