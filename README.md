@@ -67,7 +67,7 @@ Bambu targets at financial institution. Examples of Bambu's clients are asset ma
 ### *What is the competitive advantage of Bambu ?*
 
 #### Licensing:
-Bambu works with institutional clients who already has the liscence to do investment advisory in various country. This eases their regulatory difficulties. 
+Bambu works with institutional clients who already has the licence to do investment advisory in various country. This enables them to expand easily. 
 
 #### Easy to work with: 
 Bambu is designed so that non-programming backgorund users can easily develop their platform. Bambu also provides API library. This allows clients to add innovative features into their platform without diificulties. 
@@ -97,6 +97,7 @@ Bambu belongs to the pure robo advisor segnment. According to Research Drive, th
 
 ### Major competitors: 
 <ol>
+<li>Bambu</li>
 <li>Charles Schwab Corporation</li>
 <li>The Vanguard Group, Inc</li>
 <li>Betterment</li>
@@ -107,15 +108,14 @@ Bambu belongs to the pure robo advisor segnment. According to Research Drive, th
 <li>Banco Santander S.A</li>
 <li>T. Rowe Price</li>
 
+</ol>
 <br />
 
+
 # Results 
+Bambu create business impact by intergrating technology into financial services. Bambu has collaborated with Franklin Templeton and Apex Clearing to launch Tango, a new turnkey robo-adviser. Franklin Templeton is a leading investment company. Tango has been benefited by Bambu's white-label software service. This had drived market growth. 
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
+Robo-advisor companies' success can be assessed through various metrics such as asset under management, client base etc. For Bambu, which adopts a B2B model, its success can be assessed through its clients. Bambu works with leading financial institution clients such as Franklin Templeton, Standard Chartered, HSBC. 
 
 # Recommendations
 
@@ -126,6 +126,7 @@ Bambu belongs to the pure robo advisor segnment. According to Research Drive, th
 * What technologies would this additional product or service utilise?
 
 * Why are these technologies appropriate for your solution?
+
 
  <br />
 
@@ -146,7 +147,7 @@ Bambu belongs to the pure robo advisor segnment. According to Research Drive, th
 
 
 
-## **Reference**:
+# Reference:
 
 https://bambu.co/company/about-us/
 
@@ -165,5 +166,7 @@ https://www.wipro.com/digital/rise-robo-advisor-wealth-management0/#:~:text=Robo
 https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp
 
 https://www.researchdive.com/8537/robo-advisory-market?utm_source=GNW
+
+https://www.reportlinker.com/p06284122/Robo-Advisory-Global-Market-Report.html?utm_source=GNW
 
 
