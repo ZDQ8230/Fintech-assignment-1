@@ -79,13 +79,11 @@ Bambu is designed so that non-programming backgorund users can easily develop th
 # Landscape: robo-advisor:
 
 
-Bambu operates within the robo-advisor domain. Robo-advisors use automated, algorithm-based system and little human involvement to provide portfolio management advice. Robo-advisor gives recommandations based on the user's goals, current financial postion, portfolio. Benefits of using robo-advisors are: 
+Bambu operates within the robo-advisor domain. robo-advisors use automated, algorithm-based system and little human involvement to provide portfolio management advice. Robo-advisor gives recommandations based on the user's goals, current financial postion, portfolio. Benefits of using robo-advisors are: 
 
 -  In comparison with human labor, robo-advisor has a lower costs 
 
 > <p> Most robo-advisors charge annual flat fees of less than .5% per specific amount managed. It is much less than the typical 1% to 2% charged by a human financial planner (or more for commission-based accounts).  </p> - Adam Hayes, Socio-Economic Review, Volume 19, Issue1, 2021, Pages 83-110
-
-<br /> 
 
 - Robo-advisor can be accessed 24/7. 
 
@@ -93,12 +91,25 @@ Bambu operates within the robo-advisor domain. Robo-advisors use automated, algo
 
 
 ### Future trend: 
+According to analysis published by [Research Drive](https://www.researchdive.com/8537/robo-advisory-market?utm_source=GNW) in Jan 2022, the global robo adviosry market is estimated to generate of revenue of $59,344.5 million by 2028, growing from $4,600.0 million in 2020. The compound annual growth rate (CGAR) is estimated to be 39.9%. 
 
+Bambu belongs to the pure robo advisor segnment. According to Research Drive, the pure robo-advisor segment is going to experience a fast growth in market share. share. Growing from from $2,096.8 million in 2020 to $27,931.5 million by 2028. The CAGR is estimated at 39.5%. 
 
+### Major competitors: 
+<ol>
+<li>Charles Schwab Corporation</li>
+<li>The Vanguard Group, Inc</li>
+<li>Betterment</li>
+<li>FMR LLC</li>
+<li>WEALTHFRONT CORPORATION</li>
+<li>Ellevest</li>
+<li>SigFig Wealth Management LLC. (Nvest, Inc.)</li>
+<li>Banco Santander S.A</li>
+<li>T. Rowe Price</li>
 
+<br />
 
-
-## Results
+# Results 
 
 * What has been the business impact of this company so far?
 
@@ -106,7 +117,7 @@ Bambu operates within the robo-advisor domain. Robo-advisors use automated, algo
 
 * How is your company performing relative to competitors in the same domain?
 
-## Recommendations
+# Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
@@ -152,5 +163,7 @@ https://www.wipro.com/digital/rise-robo-advisor-wealth-management0/#:~:text=Robo
 https://www.wipro.com/digital/rise-robo-advisor-wealth-management0/#:~:text=Robo%2Dadvisors%20make%20automated%20portfolio,affluent%20market%20segments%20as%20well.
 
 https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp
+
+https://www.researchdive.com/8537/robo-advisory-market?utm_source=GNW
 
 
