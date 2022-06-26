@@ -76,7 +76,7 @@ Bambu is designed so that non-programming backgorund users can easily develop th
 
 
 
-# Landscape: robo-advisor:
+# The landscape of robo-advisor:
 
 
 Bambu operates within the robo-advisor domain. robo-advisors use automated, algorithm-based system and little human involvement to provide portfolio management advice. Robo-advisor gives recommandations based on the user's goals, current financial postion, portfolio. Benefits of using robo-advisors are: 
